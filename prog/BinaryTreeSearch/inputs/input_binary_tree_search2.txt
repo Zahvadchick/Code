@@ -1,0 +1,27 @@
+add 7
+remove 7
+remove 7
+remove 9
+add 9
+add 14
+add 10
+add 6
+add 11
+add 18
+add 6
+add 8
+add 16
+add 21
+add 4
+add 33
+remove 6
+remove 50
+remove 21
+remove 6
+remove 14
+remove 11
+remove 6
+preorder
+inorder
+postorder
+valid

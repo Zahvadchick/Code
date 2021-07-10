@@ -1,0 +1,9 @@
+add 4
+get 0
+add 2 0
+get 0
+get 1
+add 5 1
+get 1
+add 11 1
+get 1

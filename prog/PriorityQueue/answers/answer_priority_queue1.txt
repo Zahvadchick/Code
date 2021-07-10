@@ -1,0 +1,5 @@
+top element is 7, has max priority equal 7
+top element is 1, has max priority equal 11
+top element is 1, has max priority equal 11
+top element is 22, has max priority equal 22
+top element is 50, has max priority equal 50

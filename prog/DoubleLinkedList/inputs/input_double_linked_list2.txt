@@ -1,0 +1,9 @@
+add back 1
+remove 1
+add back 2
+add front 3
+add front 4
+remove 1
+get all
+remove 2
+get all

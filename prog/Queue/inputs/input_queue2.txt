@@ -1,0 +1,23 @@
+push 7689
+pop
+top
+pop
+top
+push 13
+push 94893
+push 89
+pop
+pop
+top
+push 99
+push 98
+push 97
+push 96
+push 95
+top
+pop
+pop
+pop
+front
+pop
+top

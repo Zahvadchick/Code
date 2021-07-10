@@ -1,0 +1,16 @@
+empty
+push 8
+empty
+pop
+empty
+push 4
+push 5
+push 6
+push 8
+empty
+pop
+pop
+pop
+empty
+pop
+empty

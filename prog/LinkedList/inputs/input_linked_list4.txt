@@ -1,0 +1,10 @@
+add 1
+add 11
+add 111
+add 11111
+contains 11
+contains 2
+contains 1111
+remove 11
+contains 11
+contains 1

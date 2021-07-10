@@ -1,0 +1,10 @@
+push front 3
+top
+push back 6
+top
+push front 8
+front
+push back 1
+push back 2
+front
+top

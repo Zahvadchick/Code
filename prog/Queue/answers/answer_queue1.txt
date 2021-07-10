@@ -1,0 +1,6 @@
+front element is 7
+top element is 4
+top element is 19
+front element is 7
+front element is 7
+top element is 234423

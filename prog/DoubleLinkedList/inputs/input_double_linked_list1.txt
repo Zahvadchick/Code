@@ -1,0 +1,15 @@
+add back 6
+get 0
+add 4 0
+get 0
+add front 5
+get 0
+add 9 2
+add 7 2
+add back 10
+get 2
+get 5
+add front 0
+add back -6
+get all
+reverse

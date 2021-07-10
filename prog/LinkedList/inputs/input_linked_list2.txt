@@ -1,0 +1,15 @@
+add 9
+remove 9
+get 0
+add 8
+add 7
+add 6
+add 5
+add 5
+remove 4
+get all
+remove 5
+get all
+remove 6
+remove 7
+get all

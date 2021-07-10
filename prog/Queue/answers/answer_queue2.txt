@@ -1,0 +1,6 @@
+Queue is empty
+Queue is empty
+top element is 89
+top element is 95
+front element is 97
+top element is 95

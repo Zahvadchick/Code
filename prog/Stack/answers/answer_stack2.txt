@@ -1,0 +1,6 @@
+Stack is empty
+Stack is empty
+top element is 13
+top element is 95
+top element is 98
+top element is 99

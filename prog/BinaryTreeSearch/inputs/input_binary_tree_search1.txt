@@ -1,0 +1,15 @@
+add 9
+get head
+add 4
+add 13
+get min
+get max
+add 19
+add 3
+add 7
+add 11
+add 17
+preorder
+inorder
+postorder
+valid

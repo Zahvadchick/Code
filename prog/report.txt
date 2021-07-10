@@ -1,0 +1,98 @@
+
+Stack:
+Unit tests:
+PushTest: OK
+PopTest: OK
+EmptyTest: OK
+MainTest: OK
+
+Stdin test : 
+Test1 gave the correct answers
+Test2 gave the correct answers
+Test3 gave the correct answers
+
+Deque:
+Unit tests:
+PushTest: OK
+PopTest: OK
+EmptyTest: OK
+MainTest: OK
+
+Stdin test : 
+Test1 gave the correct answers
+Test2 gave the correct answers
+Test3 gave the correct answers
+
+Queue:
+Unit tests:
+PushTest: OK
+PopTest: OK
+EmptyTest: OK
+MainTest: OK
+
+Stdin test : 
+Test1 gave the correct answers
+Test2 gave the correct answers
+Test3 gave the correct answers
+
+LinkedList:
+Unit tests:
+AddTest: OK
+RemoveTest: OK
+CountTest: OK
+ContainsTest: OK
+
+Stdin test : 
+Test1 gave the correct answers
+Test2 gave the correct answers
+Test3 gave the correct answers
+Test4 gave the correct answers
+
+DoubleLinkedList:
+Unit tests:
+AddTest: OK
+RemoveTest: OK
+CountTest: OK
+ContainsTest: OK
+
+Stdin test : 
+Test1 gave the correct answers
+Test2 gave the correct answers
+Test3 gave the correct answers
+Test4 gave the correct answers
+
+BinaryTreeSearch:
+Unit tests:
+AddTest: OK
+RemoveTest: OK
+FindTest: OK
+
+Stdin test : 
+Test1 gave the correct answers
+Test2 gave the correct answers
+Test3 gave the correct answers
+
+XorLinkedList:
+Unit tests:
+AddTest: OK
+RemoveTest: OK
+CountTest: OK
+ContainsTest: OK
+
+Stdin test : 
+Test1 gave the correct answers
+Test2 gave the correct answers
+Test3 gave the correct answers
+Test4 gave the correct answers
+
+PriorityQueue:
+Unit tests:
+PushTest: OK
+PopTest: OK
+EmptyTest: OK
+MainTest: OK
+
+Stdin test : 
+Test1 gave the correct answers
+Test2 gave the correct answers
+Test3 gave the correct answers

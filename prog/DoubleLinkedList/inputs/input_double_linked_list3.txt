@@ -1,0 +1,17 @@
+add back 1
+add back 2
+add back 3
+add back 4
+count
+add front 5
+add 6 2
+count
+remove 3
+add 7 4
+count
+remove 10
+remove 2
+remove 6
+count
+get all
+reverse

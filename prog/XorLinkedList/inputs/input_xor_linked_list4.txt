@@ -1,0 +1,13 @@
+add back 4
+add back -4
+add back 7
+add back 9
+contains 7
+contains 1
+contains 4
+contains -7
+contains 10
+add back 10
+contains 10
+remove 7
+contains 7

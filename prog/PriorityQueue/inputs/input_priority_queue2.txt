@@ -1,0 +1,17 @@
+push 19
+pop
+top
+push 2 90
+push 6 50
+push 40
+pop
+top
+pop
+top
+push 35
+push 45
+push 50
+pop
+pop
+pop
+top

@@ -1,0 +1,21 @@
+push front 8
+pop front
+top
+push back 2
+push back 3
+push back 4
+push front 1
+top
+front
+pop back
+top
+pop front
+front
+pop back
+top
+push back 29
+push back 13
+pop front
+pop front
+front
+top

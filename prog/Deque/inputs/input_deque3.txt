@@ -1,0 +1,15 @@
+empty
+push front 1
+empty
+pop back
+empty
+pop front
+empty
+push back 5
+push front 88
+push front 43
+pop back
+pop back
+empty
+pop front
+empty

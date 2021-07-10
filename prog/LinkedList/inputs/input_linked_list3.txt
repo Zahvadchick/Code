@@ -1,0 +1,12 @@
+add 11
+add 22
+add 45
+add 16
+count
+add 19
+add 19
+count
+remove 19
+remove 16
+remove 15
+count

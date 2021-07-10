@@ -1,0 +1,8 @@
+Deque is empty
+top element is 4
+front element is 1
+top element is 3
+front element is 2
+top element is 2
+front element is 13
+top element is 13

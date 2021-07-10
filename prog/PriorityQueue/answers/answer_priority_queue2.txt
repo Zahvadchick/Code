@@ -1,0 +1,4 @@
+Priority queue is empty
+top element is 6, has max priority equal 50
+top element is 40, has max priority equal 40
+top element is 35, has max priority equal 35
